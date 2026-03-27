@@ -1,5 +1,5 @@
 # BDA - Travaux pratiques
 
-INSTITU GALILEE
+INSTITUT GALILEE
 
 Chaque TP est dans un dossier `TPx/`.
